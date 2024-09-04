@@ -12,7 +12,7 @@ Being a Data Journalist is part writer, part data visualiser, and part data-jack
 
 (I've completed the SQL part. You can view my certificate [here](https://drive.google.com/file/d/1Legrq2X0gKU4fsR8XU_1eY_9k3Ftid8g/view?usp=drive_link)). 
 
-This project was part of the Python Fundamentals for Data Science (Part I) Module (which was part of the Data Science Foundations section – it's a big course). 
+This project was part of the Python Fundamentals for Data Science (Part II) Module (which was part of the Data Science Foundations section – it's a big course). 
 
 It's at the end of the Python Strings chapter, and is intended to test one's use of python strings, specifically with the intention of cleaning messy text data.
 
